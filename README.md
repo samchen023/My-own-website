@@ -1,2 +1,2 @@
-# my-own-website
+# My-own-website
 Built with bootstrap
