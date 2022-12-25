@@ -1,30 +1,35 @@
 /*hedder*/
-.offcanvas.offcanvas-end{
+.offcanvas.offcanvas-end {
     color: white;
 }
-.offcanvas-body a{
+
+.offcanvas-body a {
     color: white;
 }
-.dropdown-menu{
+
+.dropdown-menu {
     background-color: #383838;
 }
+
 /*title*/
-.link-title{
+.link-title {
     margin-top: 56px;
     margin-bottom: 0px;
     padding: 80px;
     text-align: center;
-    background-image:url(/pic/linkbcgi.png);
+    background-image: url(/img/linkbcgi.png);
     background-size: cover;
     background-position-x: center;
     background-position-y: -10cm;
     color: #FFFFFF;
 }
+
 /*links*/
-.social-link{
+.social-link {
     margin: 0 50px;
 }
-.twitch-title{
+
+.twitch-title {
     text-align: center;
     color: white;
     margin-top: 8px;
@@ -36,10 +41,12 @@
     margin-bottom: 0px;
     font-weight: bold;
 }
-.twitch-title img{
-    margin-right: 8px;   
+
+.twitch-title img {
+    margin-right: 8px;
 }
-.twitch-id{
+
+.twitch-id {
     text-align: center;
     background-color: #6441a5;
     height: 40px;
@@ -47,16 +54,19 @@
     font-size: 20px;
     font-weight: bold;
 }
-.twitch-live{
+
+.twitch-live {
     display: flex;
     justify-content: center;
 }
-.ytbutton{
+
+.ytbutton {
     display: flex;
     justify-content: center;
     margin-top: 10px;
 }
-.youtube-title{
+
+.youtube-title {
     text-align: center;
     color: white;
     margin-top: 16px;
@@ -68,10 +78,12 @@
     margin-bottom: 0px;
     font-weight: bold;
 }
-.youtube-title img{
+
+.youtube-title img {
     margin-right: 8px;
 }
-.youtube-id{
+
+.youtube-id {
     text-align: center;
     background-color: #e40000;
     height: 40px;
@@ -80,18 +92,13 @@
     font-weight: bold;
 }
 
-.ytlatestvideo{
+.ytlatestvideo {
     display: flex;
     justify-content: center;
     margin-bottom: 16px;
 }
+
 /*footer*/
-.container.pt-4{
+.container.pt-4 {
     padding-bottom: 24px;
 }
-
-
-
-
-
-
