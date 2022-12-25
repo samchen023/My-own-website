@@ -1,0 +1,17 @@
+.inpagetitle{
+    margin-top: 56px;
+}
+/*hedder*/
+.offcanvas.offcanvas-end{
+    color: white;
+}
+.offcanvas-body a{
+    color: white;
+}
+.dropdown-menu{
+    background-color: #383838;
+}
+/*footer*/
+.container.pt-4{
+    padding-bottom: 24px;
+}
