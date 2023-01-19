@@ -1,5 +1,5 @@
 .inpagetitle{
-    margin-top: 56px;
+    text-align: center;
 }
 /*hedder*/
 .offcanvas.offcanvas-end{
@@ -14,4 +14,7 @@
 /*footer*/
 .container.pt-4{
     padding-bottom: 24px;
+}
+.carousel.slide{
+    margin-top: 56px
 }
